@@ -1,0 +1,31 @@
+{
+  "name": "takaosecond.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takaosecond/takaosecond.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/takaosecond/takaosecond.github.io/issues"
+  },
+  "homepage": "https://github.com/takaosecond/takaosecond.github.io#readme",
+  "dependencies": {
+    "next": "^12.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "serve": "^13.0.2"
+  }
+}
